@@ -1,4 +1,4 @@
-#include "pointerUpdate.h"
+
 
 void update(int * arr[], int length){
 int i, *oldindex[100],newindex[100];
